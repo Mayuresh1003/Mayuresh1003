@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="C:\Users\mayur\Downloads\ChatGPT Image Jan 25, 2026, 03_22_43 PM.png" />
-</p>
 # 💫 About Me:
 🔭 I’m currently working on:Building a personal portfolio using Java & C++.<br><br>👯 I’m looking to collaborate on: Open-source projects involving Data Structures or Arduino/IoT-based innovation projects.<br><br>🤝 I’m looking for help with: Mastering Advanced Algorithms and understanding System Architecture.<br><br>🌱 I’m currently learning: Computer Organization, Database Management (SQL), and exploring Full-stack development.<br><br>💬 Ask me about: C/C++, Logic Gates, or why I chose Engineering over sleep.<br><br>⚡ Fun fact: I can explain how a CPU works, but still struggle to plug in a USB on the first try.
 
