@@ -45,7 +45,10 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mayuresh1003&theme=react-dark)
 </p>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mayuresh1003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mayuresh1003&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
