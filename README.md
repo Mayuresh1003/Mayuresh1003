@@ -38,7 +38,7 @@
 
 ### 🔝 Featured Project
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mayuresh1003&repo=NAME_OF_YOUR_BEST_REPO&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mayuresh1003&repo=Java-Learning-journey&theme=dark" />
 </p>
 
 
