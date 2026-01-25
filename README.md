@@ -1,6 +1,19 @@
 # 💫 About Me:
-🔭 I’m currently working on: Building a Personal Portfolio using Java/C++.<br><br>👯 I’m looking to collaborate on: Open-source projects involving Data Structures or cool Arduino/IoT hacks.<br><br>🤝 I’m looking for help with: Mastering Advanced Algorithms and understanding System Architecture.<br><br>🌱 I’m currently learning: Computer Organization, Database Management (SQL), and exploring Full-stack development.<br><br>💬 Ask me about: C/C++, Logic Gates, or why I chose Engineering over sleep.<br><br>⚡ Fun fact: I can explain how a CPU works, but I still struggle to plug a USB in on the first try.
+🔭 I’m currently working on:Building a personal portfolio using Java & C++.<br><br>👯 I’m looking to collaborate on: Open-source projects involving Data Structures or Arduino/IoT-based innovation projects.<br><br>🤝 I’m looking for help with: Mastering Advanced Algorithms and understanding System Architecture.<br><br>🌱 I’m currently learning: Computer Organization, Database Management (SQL), and exploring Full-stack development.<br><br>💬 Ask me about: C/C++, Logic Gates, or why I chose Engineering over sleep.<br><br>⚡ Fun fact: I can explain how a CPU works, but still struggle to plug in a USB on the first try.
 
+### 🧑‍💻 DSA Learning Platform
+- Roadmaps, progress tracking, and resources dashboard
+- Interactive learning analytics
+
+## 🎯 Current Focus
+- Advanced Data Structures & Algorithms
+- System Design & Computer Architecture
+- Backend Development with SQL & APIs
+- Open-source contributions
+
+## 🧩 Coding Profiles
+- LeetCode: https://leetcode.com/u/Mayuresh_Dudhat/
+- GeeksforGeeks: https://www.geeksforgeeks.org/profile/mayureshp0nrc
 
 ## 🌐 Socials:
 
@@ -28,8 +41,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mayuresh1003&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Mayuresh1003&theme=dark&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuresh1003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mayuresh1003&theme=react-dark)
+</p>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mayuresh1003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -40,6 +54,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mayuresh1003&repo=Java-Learning-journey&theme=dark" />
 </p>
+
+
+📫 Reach me at: mayuresh.patel2007@gmail.com  
+
 
 
 
