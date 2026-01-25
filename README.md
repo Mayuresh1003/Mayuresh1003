@@ -33,17 +33,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repos
+### 🔝 Featured Project
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Mayuresh1003&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mayuresh1003&repo=NAME_OF_YOUR_BEST_REPO&theme=dark" />
 </p>
 
----
-<p align="center">
-<a href="https://visitcount.itsvg.in/api?id=Mayuresh1003&icon=0&color=0"><img src="https://visitcount.itsvg.in/api?id=Mayuresh1003&icon=0&color=0" /></a>
-</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Mayuresh1003&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
