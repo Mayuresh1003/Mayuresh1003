@@ -44,11 +44,6 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mayuresh1003&theme=react-dark)
 </p>
-##🏆 GitHub Trophies
-
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayuresh1003&show_icons=true)
-
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
