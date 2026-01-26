@@ -57,7 +57,7 @@
 </p>
 
 
-📫 Reach me at: mayuresh.patel2007@gmail.com  
+📫 Reach me at: mayureshpatel2007@gmail.com  
 
 
 
