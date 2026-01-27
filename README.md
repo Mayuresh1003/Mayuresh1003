@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Mayuresh Dudhat</h1>
+<h1 align="center">Hi 👋 I'm Mayuresh Dudha\</h1>
 <h3 align="center">Computer Engineering Student | Aspiring Software Developer</h3>
 
 # 💫 About Me:
