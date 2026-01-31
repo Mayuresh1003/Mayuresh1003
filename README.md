@@ -57,10 +57,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuresh1003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 # 📊 GitHub Analytics:
 
 <p align="center">
@@ -73,6 +69,10 @@
 </p>
 
 ---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ## 🧩 Profiles & Contact:
 <p align="left">
