@@ -14,6 +14,11 @@
 - Backend Development with SQL & APIs
 - Open-source contributions
 
+## 🏆 Hackathons & Achievements
+- **[Hackathon Name]** | *Project Name* | [Link]
+  - Built a real-time tracking system using Socket.io and Node.js.
+  - Awarded "Most Innovative Use of APIs."
+
 ## 🧩 Coding Profiles
 - LeetCode: https://leetcode.com/u/Mayuresh_Dudhat/
 - GeeksforGeeks: https://www.geeksforgeeks.org/profile/mayureshp0nrc
