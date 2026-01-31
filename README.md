@@ -1,29 +1,36 @@
 <h1 align="center">Hi 👋 I'm Mayuresh Dudhat</h1>
 <h3 align="center">Computer Engineering Student | Aspiring Software Developer</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-OOPJ%20%26%20DSA-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hackathons-Active-orange?style=for-the-badge">
+</p>
+
+---
+
 # 💫 About Me:
-🔭 I’m currently working on:Building a personal portfolio using Java & C++.<br><br>👯 I’m looking to collaborate on: Open-source projects involving Data Structures or Arduino/IoT-based innovation projects.<br><br>🤝 I’m looking for help with: Mastering Advanced Algorithms and understanding System Architecture.<br><br>🌱 I’m currently learning: Computer Organization, Database Management (SQL), and exploring Full-stack development.<br><br>💬 Ask me about: C/C++, Logic Gates, or why I chose Engineering over sleep.<br><br>⚡ Fun fact: I can explain how a CPU works, but still struggle to plug in a USB on the first try.
+- 🔭 **Currently Building:** A high-performance portfolio using **Java** and **C++** with a focus on Object-Oriented principles.
+- 👯 **Hackathons:** Actively participating in national-level hackathons. Open to collaborating on **Full-stack** or **IoT** projects.
+- 🤝 **Learning Path:** Moving from basic problem solving to **System Design** and **Advanced Algorithms**.
+- 💬 **Ask me about:** Why Java is my favorite for OOP, or how I debugged my first logic gate circuit.
+- ⚡ **Fun fact:** I can explain how a CPU works, but still struggle to plug in a USB on the first try.
 
-## 🧑‍💻 DSA Learning Platform
-- Roadmaps, progress tracking, and resources dashboard
-- Interactive learning analytics
+---
 
-## 🎯 Current Focus
-- Advanced Data Structures & Algorithms
-- System Design & Computer Architecture
-- Backend Development with SQL & APIs
-- Open-source contributions
+# 🚀 My Growth Dashboard:
 
-## 🏆 Hackathons & Achievements
-- **SIH2025** | *Gamified environmental Education* |
-- Built a real-time tracking system using Socket.io and Node.js.
-## 🧩 Coding Profiles
-- LeetCode: https://leetcode.com/u/Mayuresh_Dudhat/
-- GeeksforGeeks: https://www.geeksforgeeks.org/profile/mayureshp0nrc
+### 🧑‍💻 Coding Progress
+- **Java OOPJ:** 🟡 Mastering Inheritance, Polymorphism, and Multi-threading.
+- **DSA:** 🔴 Currently solving Graph Theory & Dynamic Programming problems.
+- **Web Dev:** 🔵 Transitioning from static UI to Full-stack with SQL & APIs.
 
-## 🌐 Socials:
+### 🏆 Hackathons & Projects
+- **[Project Name]** | *Hackathon Title* | [Link to Repo]
+  - Solved [Problem] using [Tech Stack].
+  - Key takeaway: Learned how to implement [Specific Feature].
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayureshdudhat/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayuresh.patel2007@gmail.com)
+---
 
 # 💻 Tech Stack:
 
@@ -42,27 +49,23 @@
 ### 🚀 CI/CD & Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayuresh1003&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Mayuresh1003&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuresh1003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mayuresh1003&theme=react-dark)
+# 📊 GitHub Analytics:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayuresh1003&theme=dark&show_icons=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuresh1003&theme=dark&layout=compact" height="170" />
 </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Featured Project
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mayuresh1003&repo=Java-Learning-journey&theme=dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayuresh1003&theme=react-dark" />
 </p>
 
+---
 
-📫 Reach me at: mayuresh.patel2007@gmail.com  
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧩 Profiles & Contact:
+<p align="left">
+<a href="https://leetcode.com/u/Mayuresh_Dudhat/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/mayureshdudhat/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mayuresh.patel2007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
