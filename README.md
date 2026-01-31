@@ -52,13 +52,14 @@
 ---
 
 # 📊 GitHub Analytics:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayuresh1003&theme=dark&show_icons=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuresh1003&theme=dark&layout=compact" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayuresh1003&show_icons=true&theme=dark" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuresh1003&layout=compact&theme=dark" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayuresh1003&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayuresh1003&theme=react-dark" width="100%" />
 </p>
 
 ---
