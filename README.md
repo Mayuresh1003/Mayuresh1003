@@ -15,7 +15,7 @@
 - Open-source contributions
 
 ## 🏆 Hackathons & Achievements
-- **SIH** | *Gamified environmental Education* |
+- **SIH2025** | *Gamified environmental Education* |
 - Built a real-time tracking system using Socket.io and Node.js.
 ## 🧩 Coding Profiles
 - LeetCode: https://leetcode.com/u/Mayuresh_Dudhat/
